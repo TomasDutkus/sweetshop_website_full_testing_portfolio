@@ -1,0 +1,155 @@
+# 1. Home Page:
+#
+#     Navigation:
+#
+#      Sweet Shop: favicon and link to home page.
+#      Sweets: link to sweets page.
+#      About: link to about page.
+#      Login: link to login page.
+#      Basket: basket counter and link to basket page.
+#
+#     Header:
+#
+#      Advertising gif: "Sale now on"
+#      Greeting text: "Welcome to the sweet shop!" and "The sweetest online shop out there".
+#      Button: "Browse Sweets" - link to sweets page.
+#
+#     Main:
+#
+#      Text: "Most popular".
+#      Text: "Our most popular choice of retro sweets."
+#      Container: 4 most popular products with images, names, descriptions, prices and buttons "Add to Basket".
+#
+#     Footer:
+#
+#      Text: "Sweet Shop Project 2018".
+#
+# 2. Sweets Page:
+#
+#     Navigation:
+#
+#      Sweet Shop: favicon and link to home page.
+#      Sweets: link to sweets page.
+#      About: link to about page.
+#      Login: link to login page.
+#      Basket: basket counter and link to basket page.
+#
+#     Header:
+#
+#      Text: "Browse sweets".
+#      Text: "Browse our delicious choice of retro sweets."
+#
+#     Main:
+#     
+#      Container: All products with images, names, descriptions, prices and buttons "Add to Basket".
+#
+#     Footer:
+#
+#      Text: "Sweet Shop Project 2018".
+#
+# 3. About page:
+#
+#     Navigation:
+#
+#      Sweet Shop: favicon and link to home page.
+#      Sweets: link to sweets page.
+#      About: link to about page.
+#      Login: link to login page.
+#      Basket: basket counter and link to basket page.
+#
+#     Header:
+#
+#      Text: "Sweet Shop Project".
+#      Text: "An intentionally broken web application to help demonstrate Chrome DevTools."
+#      Text: "Sweet Shop is a project created to help demonstrate some of the great features of the Chrome DevTools which may be of use to people who help test web applications. Sweet Shop encompasses common issues found in real-world web applications!".
+#
+#     Footer:
+#
+#      Text: "Sweet Shop Project 2018".
+#
+# 4. Login page:
+#
+#     Navigation:
+#
+#      Sweet Shop: favicon and link to home page.
+#      Sweets: link to sweets page.
+#      About: link to about page.
+#      Login: link to login page.
+#      Basket: basket counter and link to basket page.
+#
+#     Header:
+#
+#      Text: "Login"
+#      Text with abbr: "Please enter your email address and password in order to login to your account."
+#
+#     Main:
+#
+#      Login form: Email address, Password and "Login" button.
+#      Social buttons: "Twitter", "Facebook", "LinkedIn".
+#
+#     Footer:
+#
+#      Text: "Sweet Shop Project 2018".
+#
+# 5. User Account page:
+#
+#     Navigation:
+#
+#      Sweet Shop: favicon and link to home page.
+#      Sweets: link to sweets page.
+#      About: link to about page.
+#      Login: link to login page.
+#      Basket: basket counter and link to basket page.
+#
+#     Header:
+#
+#      Text: "Your Account"
+#      Text with a: "Welcome back test@user.com".
+#
+#     Main:
+#
+#      Text: "Previous Orders".
+#      Table: Order history with Order Number, Date Ordered, Order Description and Order Total.
+#      Text: "Your Basket".
+#      Basket counter.
+#      List: Products in basket with product names, prices, quantities and "Delete Item" buttons.
+#      Text: "Item Order Breakdown"
+#      Canvas: # of Items Ordered
+#
+#     Footer:
+#
+#      Text: "Sweet Shop Project 2018".
+#
+# 6. Basket Page:
+#
+#     Navigation:
+#
+#      Sweet Shop: favicon and link to home page.
+#      Sweets: link to sweets page.
+#      About: link to about page.
+#      Login: link to login page.
+#      Basket: basket counter and link to basket page.
+#
+#     Header:
+#
+#      Text: "Your Basket"
+#      Text: "Please check your order details and then enter your payment and delivery details."
+#
+#     Main:
+#
+#      Text: "Billing address".
+#      Text: "Payment".
+#      Form with user details: First name, Last name, Email, Address, Address 2 (Optional), Country, City, Zip, Name on card, Credit card number, Expiration, CVV.
+#      Button: "Continue to checkout" - link to checkout page.
+#      Text: "Your Basket".
+#      Basket counter.
+#      List: Products in basket with product names, prices, quantities, "Delete Item" buttons and Total (GPB)
+#      Text: "Delivery".
+#      Input radio: "Collect (FREE)".
+#      Input radio: "Standard Shipping (£1.99)".
+#      Form for promo code with "Redeem" button.
+#      Button: "Empty basket" - deletes all products from the basket.
+#
+#     Footer:
+#
+#      Text: "Sweet Shop Project 2018".
