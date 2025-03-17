@@ -1,0 +1,234 @@
+Home Page:
+
+Test Case 1: Navigation Bar
+
+Preconditions: User is on the homepage
+Steps:
+1. Verify that the navigation bar is visible
+2. Verify that the navigation bar contains the correct links (Sweet Shop, Sweets, About, Login, Basket)
+Expected Result: The navigation bar is displayed correctly and functions as expected
+
+Test Case 2: Hero Section
+
+Preconditions: User is on the homepage
+Steps:
+1. Verify that the hero section is visible
+2. Verify that the hero section contains the correct elements (heading, subheading, browse sweets button)
+Expected Result: The hero section is displayed correctly and functions as expected
+
+Test Case 3: Advertising Section
+
+Preconditions: User is on the homepage
+Steps:
+1. Verify that the advertising section is visible
+2. Verify that the advertising section contains the correct elements (image with alt text)
+Expected Result: The advertising section is displayed correctly and functions as expected
+
+Test Case 4: Product Cards
+
+Preconditions: User is on the homepage
+Steps:
+1. Verify that the product cards are visible
+2. Verify that each product card contains the correct elements (image, title, description, price, add to basket button)
+Expected Result: The product cards are displayed correctly and function as expected
+
+Test Case 5: Add to Basket Button
+
+Preconditions: User is on the homepage and has clicked on a product card
+Steps:
+1. Verify that the add to basket button is visible
+2. Verify that the add to basket button functions correctly and adds the product to the basket
+3. Verify that the basket counter updates correctly
+Expected Result: The add to basket button functions correctly and updates the basket counter
+
+Test Case 6: Footer
+
+Preconditions: User is on the homepage
+Steps:
+1. Verify that the footer is visible
+2. Verify that the footer contains the correct elements (copyright information)
+Expected Result: The footer is displayed correctly and functions as expected
+
+Sweets Page:
+
+Test Case 1: Navigation Bar
+
+Preconditions: User is on the sweets page
+Steps:
+1. Verify that the navigation bar is visible
+2. Verify that the navigation bar contains the correct links (Sweet Shop, Sweets, About, Login, Basket)
+Expected Result: The navigation bar is displayed correctly and functions as expected
+
+Test Case 2: Product Cards
+
+Preconditions: User is on the sweets page
+Steps:
+1. Verify that the product cards are visible
+2. Verify that each product card contains the correct elements (image, title, description, price, add to basket button)
+Expected Result: The product cards are displayed correctly and function as expected
+
+Test Case 3: Add to Basket Button
+
+Preconditions: User is on the sweets page and has clicked on a product card
+Steps:
+1. Verify that the add to basket button is visible
+2. Verify that the add to basket button functions correctly and adds the product to the basket
+3. Verify that the basket counter updates correctly
+Expected Result: The add to basket button functions correctly and updates the basket counter
+
+Test Case 4: Footer
+
+Preconditions: User is on the sweets page
+Steps:
+1. Verify that the footer is visible
+2. Verify that the footer contains the correct elements (copyright information)
+Expected Result: The footer is displayed correctly and functions as expected
+
+About Page:
+
+Test Case 1: Navigation Bar
+
+Preconditions: User is on the about page
+Steps:
+1. Verify that the navigation bar is visible
+2. Verify that the navigation bar contains the correct links (Sweet Shop, Sweets, About, Login, Basket)
+Expected Result: The navigation bar is displayed correctly and functions as expected
+
+Test Case 2: Page Content
+
+Preconditions: User is on the about page
+Steps:
+1. Verify that the page content is visible
+2. Verify that the page content contains the correct elements (header, paragraphs)
+Expected Result: The page content is displayed correctly and functions as expected
+
+Test Case 3: Footer
+
+Preconditions: User is on the about page
+Steps:
+1. Verify that the footer is visible
+2. Verify that the footer contains the correct elements (copyright information)
+Expected Result: The footer is displayed correctly and functions as expected
+
+Login Page:
+
+Test Case 1: Navigation Bar
+
+Preconditions: User is on the login page
+Steps:
+1. Verify that the navigation bar is visible
+2. Verify that the navigation bar contains the correct links (Sweet Shop, Sweets, About, Login, Basket)
+Expected Result: The navigation bar is displayed correctly and functions as expected
+
+Test Case 2: Login Form
+
+Preconditions: User is on the login page
+Steps:
+1. Verify that the login form is visible
+2. Verify that the login form contains the correct fields (email, password) and buttons (login)
+3. Verify that the form validation works correctly (email and password validation)
+4. Verify that the form submission works correctly and redirects to the next page
+Expected Result: The login form is displayed correctly, validates inputs, and functions as expected
+
+Test Case 3: Email Validation
+
+Preconditions: User is on the login page
+Steps:
+1. Verify that the email field validates correctly (presence of "@" symbol)
+2. Verify that the email field displays an error message when the input is invalid
+Expected Result: The email field validates inputs and displays error messages correctly
+
+Test Case 4: Password Validation
+
+Preconditions: User is on the login page
+Steps:
+1. Verify that the password field validates correctly (minimum length)
+2. Verify that the password field displays an error message when the input is invalid
+Expected Result: The password field validates inputs and displays error messages correctly
+
+Test Case 5: Form Submission
+
+Preconditions: User is on the login page
+Steps:
+1. Verify that the form submission works correctly and redirects to the next page
+2. Verify that the form submission is prevented when the form is invalid
+Expected Result: The form submission works correctly and is prevented when the form is invalid
+
+User Account Page:
+
+Test Case 1: Navigation Bar
+
+Preconditions: User is on the user account page
+Steps:
+1. Verify that the navigation bar is visible
+2. Verify that the navigation bar contains the correct links (Sweet Shop, Sweets, About, Login, Basket)
+Expected Result: The navigation bar is displayed correctly and functions as expected
+
+Test Case 2: User Greeting
+
+Preconditions: User is on the user account page
+Steps:
+1. Verify that the user greeting is visible
+2. Verify that the user greeting contains the correct email address
+Expected Result: The user greeting is displayed correctly and contains the correct email address
+
+Test Case 3: Previous Orders
+
+Preconditions: User is on the user account page
+Steps:
+1. Verify that the previous orders section is visible
+2. Verify that the previous orders section contains the correct elements (order number, date ordered, order description, order total)
+3. Verify that the previous orders are displayed correctly
+Expected Result: The previous orders section is displayed correctly and contains the correct elements
+
+Test Case 4: Basket Summary
+
+Preconditions: User is on the user account page
+Steps:
+1. Verify that the basket summary is visible
+2. Verify that the basket summary contains the correct elements (title, price, quantity)
+3. Verify that the basket summary updates correctly when items are added or removed
+Expected Result: The basket summary is displayed correctly and updates as expected
+
+Test Case 5: Footer
+
+Preconditions: User is on the user account page
+Steps:
+1. Verify that the footer is visible
+2. Verify that the footer contains the correct elements (copyright information)
+Expected Result: The footer is displayed correctly and functions as expected
+
+Basket Page:
+
+Test Case 1: Navigation Bar
+
+Preconditions: User is on the basket page
+Steps:
+1. Verify that the navigation bar is visible
+2. Verify that the navigation bar contains the correct links (Sweet Shop, Sweets, About, Login, Basket)
+Expected Result: The navigation bar is displayed correctly and functions as expected
+
+Test Case 2: Basket Content
+
+Preconditions: User is on the basket page
+Steps:
+1. Verify that the basket content is visible
+2. Verify that the basket content contains the correct elements (title, price, quantity, total price)
+3. Verify that the basket content updates correctly when items are added or removed
+Expected Result: The basket content is displayed correctly and updates as expected
+
+Test Case 3: Checkout Button
+
+Preconditions: User is on the basket page
+Steps:
+1. Verify that the checkout button is visible
+2. Verify that the checkout button functions correctly and redirects to the checkout page
+Expected Result: The checkout button functions correctly and redirects to the checkout page
+
+Test Case 4: Footer
+
+Preconditions: User is on the basket page
+Steps:
+1. Verify that the footer is visible
+2. Verify that the footer contains the correct elements (copyright information)
+Expected Result: The footer is displayed correctly and functions as expected
