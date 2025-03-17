@@ -23,3 +23,17 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
+
+Cypress.Commands.add('verifyNavigationPanel', () => {
+  cy.get('nav').should('be.visible');
+  cy.get('nav').contains('Sweet Shop').should('be.visible');
+  cy.get('nav').contains('Sweets').should('be.visible');
+  cy.get('nav').contains('About').should('be.visible');
+  cy.get('nav').contains('Login').should('be.visible');
+  cy.get('nav').contains('Basket').should('be.visible');
+});
+
+Cypress.Commands.add('verifyFooter', () => {
+  cy.get('footer').should('be.visible');
+  cy.get('footer p').should('contain.text', 'Sweet Shop Project 2018');
+});
