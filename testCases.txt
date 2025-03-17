@@ -13,18 +13,10 @@ Test Case 2: Hero Section
 Preconditions: User is on the homepage
 Steps:
 1. Verify that the hero section is visible
-2. Verify that the hero section contains the correct elements (heading, subheading, browse sweets button)
+2. Verify that the hero section contains the correct elements (img, heading, subheading, browse sweets button)
 Expected Result: The hero section is displayed correctly and functions as expected
 
-Test Case 3: Advertising Section
-
-Preconditions: User is on the homepage
-Steps:
-1. Verify that the advertising section is visible
-2. Verify that the advertising section contains the correct elements (image with alt text)
-Expected Result: The advertising section is displayed correctly and functions as expected
-
-Test Case 4: Product Cards
+Test Case 3: Product Cards
 
 Preconditions: User is on the homepage
 Steps:
@@ -32,7 +24,7 @@ Steps:
 2. Verify that each product card contains the correct elements (image, title, description, price, add to basket button)
 Expected Result: The product cards are displayed correctly and function as expected
 
-Test Case 5: Add to Basket Button
+Test Case 4: Add to Basket Button
 
 Preconditions: User is on the homepage and has clicked on a product card
 Steps:
@@ -41,7 +33,7 @@ Steps:
 3. Verify that the basket counter updates correctly
 Expected Result: The add to basket button functions correctly and updates the basket counter
 
-Test Case 6: Footer
+Test Case 5: Footer
 
 Preconditions: User is on the homepage
 Steps:
