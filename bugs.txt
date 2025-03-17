@@ -1,0 +1,9 @@
+1. Home page: advertising banner "Sale now on" has no link and therefore is inactive.
+2. Home page: <h2>Most popular</h2> text color is white as background and so it's invisible to the user.
+3. Sweets page: "wham bars" has no product image.
+4. Login page: social buttons are broken and doesn't lead anywhere.
+5. Login page: login button has dynamic id.
+6. Basket page: navigation link "about" is broken.
+7. Basket page: "standard shipping" option doesn't display correct total price (£NaN).
+8. Basket page: "promo code" has no validation.
+9. Basket page: "Continue to checkout" button is broken and doesn't lead anywhere.
