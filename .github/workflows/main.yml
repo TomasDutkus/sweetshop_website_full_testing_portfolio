@@ -1,4 +1,4 @@
-name: Automation Exercise
+name: Sweet Shop
 on:
   push:
     branches: ['main']
