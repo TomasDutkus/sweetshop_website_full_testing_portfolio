@@ -146,6 +146,14 @@ Steps:
 2. Verify that the form submission is prevented when the form is invalid
 Expected Result: The form submission works correctly and is prevented when the form is invalid
 
+Test Case 6: Footer
+
+Preconditions: User is on the user account page
+Steps:
+1. Verify that the footer is visible
+2. Verify that the footer contains the correct elements (copyright information)
+Expected Result: The footer is displayed correctly and functions as expected
+
 User Account Page:
 
 Test Case 1: Navigation Bar

@@ -37,4 +37,8 @@ describe('Login Page', () => {
     cy.get('button[type="submit"]').click();
     cy.get('h1').should('contain.text', 'Your Account');
   });
+
+  it('Test Case 6: Footer', () => {
+    cy.verifyFooter();
+  });
 });
